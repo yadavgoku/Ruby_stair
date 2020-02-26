@@ -1,2 +1,2 @@
 # Ruby_stair
-The repository contains some of the logical ruby codes and it will helps you to reach out the middle .
+This repository contains some of the basic & logical ruby codes, which will helps you to reach out the middle .
